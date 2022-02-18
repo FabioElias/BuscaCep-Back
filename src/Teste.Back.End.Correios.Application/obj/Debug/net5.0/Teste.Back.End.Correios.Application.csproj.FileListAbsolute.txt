@@ -1,0 +1,15 @@
+D:\dev\help\teste-back-end-correios\src\Teste.Back.End.Correios.Application\bin\Debug\net5.0\Teste.Back.End.Correios.Application.deps.json
+D:\dev\help\teste-back-end-correios\src\Teste.Back.End.Correios.Application\bin\Debug\net5.0\Teste.Back.End.Correios.Application.dll
+D:\dev\help\teste-back-end-correios\src\Teste.Back.End.Correios.Application\bin\Debug\net5.0\ref\Teste.Back.End.Correios.Application.dll
+D:\dev\help\teste-back-end-correios\src\Teste.Back.End.Correios.Application\bin\Debug\net5.0\Teste.Back.End.Correios.Application.pdb
+D:\dev\help\teste-back-end-correios\src\Teste.Back.End.Correios.Application\bin\Debug\net5.0\Teste.Back.End.Correios.Domain.dll
+D:\dev\help\teste-back-end-correios\src\Teste.Back.End.Correios.Application\bin\Debug\net5.0\Teste.Back.End.Correios.Domain.pdb
+D:\dev\help\teste-back-end-correios\src\Teste.Back.End.Correios.Application\obj\Debug\net5.0\Teste.Back.End.Correios.Application.csproj.AssemblyReference.cache
+D:\dev\help\teste-back-end-correios\src\Teste.Back.End.Correios.Application\obj\Debug\net5.0\Teste.Back.End.Correios.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\help\teste-back-end-correios\src\Teste.Back.End.Correios.Application\obj\Debug\net5.0\Teste.Back.End.Correios.Application.AssemblyInfoInputs.cache
+D:\dev\help\teste-back-end-correios\src\Teste.Back.End.Correios.Application\obj\Debug\net5.0\Teste.Back.End.Correios.Application.AssemblyInfo.cs
+D:\dev\help\teste-back-end-correios\src\Teste.Back.End.Correios.Application\obj\Debug\net5.0\Teste.Back.End.Correios.Application.csproj.CoreCompileInputs.cache
+D:\dev\help\teste-back-end-correios\src\Teste.Back.End.Correios.Application\obj\Debug\net5.0\Teste.Back.End.Correios.Application.csproj.CopyComplete
+D:\dev\help\teste-back-end-correios\src\Teste.Back.End.Correios.Application\obj\Debug\net5.0\Teste.Back.End.Correios.Application.dll
+D:\dev\help\teste-back-end-correios\src\Teste.Back.End.Correios.Application\obj\Debug\net5.0\ref\Teste.Back.End.Correios.Application.dll
+D:\dev\help\teste-back-end-correios\src\Teste.Back.End.Correios.Application\obj\Debug\net5.0\Teste.Back.End.Correios.Application.pdb

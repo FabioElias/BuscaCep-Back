@@ -1,0 +1,12 @@
+D:\dev\help\teste-back-end-correios\src\Teste.Back.End.Correios.Domain\bin\Debug\net5.0\Teste.Back.End.Correios.Domain.deps.json
+D:\dev\help\teste-back-end-correios\src\Teste.Back.End.Correios.Domain\bin\Debug\net5.0\Teste.Back.End.Correios.Domain.dll
+D:\dev\help\teste-back-end-correios\src\Teste.Back.End.Correios.Domain\bin\Debug\net5.0\ref\Teste.Back.End.Correios.Domain.dll
+D:\dev\help\teste-back-end-correios\src\Teste.Back.End.Correios.Domain\bin\Debug\net5.0\Teste.Back.End.Correios.Domain.pdb
+D:\dev\help\teste-back-end-correios\src\Teste.Back.End.Correios.Domain\obj\Debug\net5.0\Teste.Back.End.Correios.Domain.csproj.AssemblyReference.cache
+D:\dev\help\teste-back-end-correios\src\Teste.Back.End.Correios.Domain\obj\Debug\net5.0\Teste.Back.End.Correios.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\dev\help\teste-back-end-correios\src\Teste.Back.End.Correios.Domain\obj\Debug\net5.0\Teste.Back.End.Correios.Domain.AssemblyInfoInputs.cache
+D:\dev\help\teste-back-end-correios\src\Teste.Back.End.Correios.Domain\obj\Debug\net5.0\Teste.Back.End.Correios.Domain.AssemblyInfo.cs
+D:\dev\help\teste-back-end-correios\src\Teste.Back.End.Correios.Domain\obj\Debug\net5.0\Teste.Back.End.Correios.Domain.csproj.CoreCompileInputs.cache
+D:\dev\help\teste-back-end-correios\src\Teste.Back.End.Correios.Domain\obj\Debug\net5.0\Teste.Back.End.Correios.Domain.dll
+D:\dev\help\teste-back-end-correios\src\Teste.Back.End.Correios.Domain\obj\Debug\net5.0\ref\Teste.Back.End.Correios.Domain.dll
+D:\dev\help\teste-back-end-correios\src\Teste.Back.End.Correios.Domain\obj\Debug\net5.0\Teste.Back.End.Correios.Domain.pdb

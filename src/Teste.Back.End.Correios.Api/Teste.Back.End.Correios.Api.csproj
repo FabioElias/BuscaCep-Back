@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+	  <PackageReference Include="AutoMapper" Version="10.1.1" />
+	  <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Teste.Back.End.Correios.Application\Teste.Back.End.Correios.Application.csproj" />
+    <ProjectReference Include="..\Teste.Back.End.Correios.Ioc\Teste.Back.End.Correios.Ioc.csproj" />
+  </ItemGroup>
+
+</Project>

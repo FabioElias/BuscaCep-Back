@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net5.0</TargetFramework>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="8.1.1" />
+		<PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="9.0.0" />
+		<PackageReference Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="6.0.0" />
+		<PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+	</ItemGroup>
+
+	<ItemGroup>
+		<ProjectReference Include="..\Teste.Back.End.Correios.Application\Teste.Back.End.Correios.Application.csproj" />
+		<ProjectReference Include="..\Teste.Back.End.Correios.Domain\Teste.Back.End.Correios.Domain.csproj" />
+		<ProjectReference Include="..\Teste.Back.End.Correios.Repository\Teste.Back.End.Correios.Repository.csproj" />
+	</ItemGroup>
+
+</Project>
